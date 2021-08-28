@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salvador001
+- 👋 Hi, I’m Nikhil soni
 - 👀 I’m interested in web dev and programing
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on  web project
