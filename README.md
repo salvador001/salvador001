@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil soni
 - 👀 I’m interested in web dev and programing
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning web devlopment on M-E-A-R-N stack.
 - 💞️ I’m looking to collaborate on  web project
 
 
