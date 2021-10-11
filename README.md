@@ -12,7 +12,7 @@
 - 📫 How to reach me **nikhilsonipp14@gmail.com**
 
 - ⚡ Fun fact **Let's meet one day, you'll get to know.**
-<a href="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" target="blank"><img align="right" height="40" width="35"/></a>
+<a href="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"><img align="right" height="40" width="35"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/nikhil-soni-435b13217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nikhil-soni-435b13217" height="30" width="40" /></a>
