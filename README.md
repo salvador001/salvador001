@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Nikhil Soni</h1>
+<h1 align="center"> Hello👋, I'm Nikhil Soni</h1>
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Web Dev (MERN stack) and DSA**
