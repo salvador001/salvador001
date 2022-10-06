@@ -1,17 +1,15 @@
 <h1 align="center"> Hello👋, I'm Nikhil Soni</h1>
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Web Dev (MERN stack) and DSA**
-
 - 👯 I’m looking to collaborate on **Hacktober fest projects**
 
-- 🤝 I’m looking for help with **Web Devlopment**
+- 🤝 I’m looking for help with **Open Source**
 
 - 💬 Ask me about **Anything under my domain**
 
 - 📫 How to reach me **nikhilsonipp14@gmail.com**
 
-- ⚡ Fun fact **Let's meet one day, you'll get to know.**
+- ⚡ Fun fact **I'am an Extrovert Programmer and Developer **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
